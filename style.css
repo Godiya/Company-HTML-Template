@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    text-decoration: none;
+}
+
+.container{
+    margin: 10% auto;
+    width: 60%;
+    background-color: wheat;
+}
+
+.light{
+    height: 4%;
+    width: 2%;
+}
+
+.upper{
+    font-size: 17px;
+}
+
+.parentA{
+    display: inline-block;
+    list-style: none;
+    padding-left: 20%;
+    background-color: gray;
+  
+}
+
+.nav{
+    padding-left: 10%;
+}
+.menu{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 15px;
+    padding-left: 1.5%;
+}
+
+.parentB{
+    display: flex;
+    padding: 5% 15% 15%;
+}
+
+.pic{
+    width: 60%;
+    height: 20%;
+    padding-bottom: 30%;
+}
+
+.symbol{
+    width: 2%;
+    height: 2%;
+    padding: 1%;
+}
